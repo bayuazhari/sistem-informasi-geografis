@@ -1,6 +1,6 @@
 # sistem-informasi-geografis
 ## About
-This is the resume of the first meeting of GIS
+This is the resume of the meeting of GIS
 
 Name | NPM | Class
 --------- | --------- | ---------
