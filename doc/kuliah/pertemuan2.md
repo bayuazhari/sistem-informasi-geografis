@@ -25,7 +25,7 @@ Sejak dulu, peta telah menggunakan simbol untuk menjelaskan fitur dunia nyata da
 ## Data Raster Geospasial
 Data raster terdiri dari piksel juga disebut sebagai sel grid, raster sering terlihat pixelated karena setiap pixel dikaitkan dengan nilai atau kelas. Setiap nilai pixel dalam sebuah foto digital dikaitkan dengan nilai merah, hijau dan biru. Atau setiap nilai dalam model elevasi digital merupakan nilai elevasi. Ini bisa mewakili apa pun dari kategori tematik, ketinggian atau nilai spectral. Model raster berguna untuk menyimpan data yang bervariasi terus menerus, seperti dalam foto udara, permukaan elevasi atau citra satelit. Tapi itu tergantung pada ukuran sel untuk akurasi spasial.
 <p align ="center">
-<img src="../../img/contoh raster.jpg" width="400px">
+<img src="../../img/contohraster.jpg" width="400px">
 </p>
 
 ## Kesimpulan
