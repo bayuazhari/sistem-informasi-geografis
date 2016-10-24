@@ -16,7 +16,7 @@ Pembahasan tentang shapefile pertemuan di minggu ini sudah dilakukannnya praktik
 4.	Setelah itu siapkan dulu file untuk praktikum bisa di lihat di github saya https://github.com/bayurahmadazhari/sistem-informasi-geografis, ambil file yang berformat py dan shp didalam folder praktikum. Kemudian buat folder praktikum di Local Disk (D:) dan simpan file tadi di dalam folder praktikum.
 5.	Selanjutnya jalankan python pada terminal anda, kemudian import shapefile, dan kemudian akses file shp yang akan diproses, misalkan tadi pada D:/praktikum/negara.shp. Agar lebih mudah bisa melihat gambar dibawah ini :
 <p align ="center">
-<img src="../../img/praktikum3.jpg" width="400px">
+<img src="../../img/praktikum3.JPG" width="400px">
 </p>
 6.	Atau prosesnya bisa juga dijalankan dengan file main.py yang telah disimpan di folder praktikum dan cara menjalankannya : python “D:\praktikum\main.py”. untuk lebih jelasnya silahkan bisa melihat video yang ada di atas.
 
