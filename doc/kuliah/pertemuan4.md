@@ -15,9 +15,11 @@ Format .shp merupakan salah satu bentuk file yang berada didalam shapefile yang 
 
 1. Bbox merupakan boundary box yaitu koordinat 4 titik atau koordinat batas view pada peta yang berbetuk persegi panjang di peta.
 2. Shape Type ada beberapa jenis, diantaranya adalah :
+
 * Point : koordinat titik bernomorkan standar 1 dari ESRI.
 * PolyLine : koordinat titik-titik yang membentuk garis tapi tidak membentuk area bernomorkan standar 3 dari ESRI.
 * Polygon : koordinat membentuk area bernomorkan standar 5 dari ESRI.
+
 Membaca jumlah data geometri pada phython :
 - import shapefile
 - sf = shapefile.Reader(“negara.shp”)
