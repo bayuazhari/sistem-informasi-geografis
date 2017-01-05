@@ -1063,5 +1063,5 @@ Referensi :
 * https://awangga.gitbooks.io/mapserver-untuk-pemula/content/chapter1.html 
 
 Scan Plagiarisme :
-* https://drive.google.com/open?id=0B5FSMUsdCMU4clEtYmMtdmhqcmc
-* https://drive.google.com/open?id=0B5FSMUsdCMU4dEF6Q2docDV3cm8 
+* https://drive.google.com/open?id=0B5FSMUsdCMU4T2FiLTZBN2NrVE0
+* https://drive.google.com/open?id=0B5FSMUsdCMU4TENKb1Q0djhmZG8
