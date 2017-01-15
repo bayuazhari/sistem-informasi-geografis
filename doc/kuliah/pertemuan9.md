@@ -18,13 +18,13 @@ Hubungan antara klien/server dan protokol OGC.
 Geospatial Web Services (GWS) menjadi teknologi yang paling banyak digunakan untuk data sharing dan pertukaran data diantara para stakeholder geospasial. GWS membantu pengguna menemukan, mengakses, dan kadang-kadang memanipulasi data lokasi di web dinamis dari jaringan terdistribusi. GWS dirancang untuk mengumpulkan data sekaligus dan memperbarui atau mengedit data secara real time.
 
 ## Tipe Geospatial Web Services (GWS)
-* Web Map Service (WMS)
+* Web Map Service (WMS)<br>
 Web Map Service (WMS) memberikan pengguna sarana untuk melayani peta georeferensi yang disediakan database GIS menggunakan jaringan internet. WMS menghasilkan peta dalam format gambar seperti : PNG, JPEG atau GIS dan dapat ditampilkan pada browser.
-* Web Map Tile Service (WMS)
+* Web Map Tile Service (WMS)<br>
 Web Map Tile Service (WMTS) hampir sama dengan Web Map Service (WMS), perbedaannya WMTS mengirimkan tiles (kebanyakan ukurannya 256x256 pixel), sementara WMS mengirimkan satu gambar per permintaan. Keuntungan utama dari tiles adalah bahwa tiles dapat pre-render pada sisi server, dan cache di sisi klien Hal ini akan mengurangi waktu menunggu data dan bandwidth.
-* Web Feature Service (WFS)
+* Web Feature Service (WFS)<br>
 Web Feature Service (WFS) adalah antarmuka yang memungkinkan pengguna untuk mengakses dan memanipulasi informasi fitur geospasial dari sumber jaringan terdistribusi. operasi dasarnya termasuk GetCapabilities, DescribeFeatureType dan GetFeature.
-* Web Coverage Service (WCS)
+* Web Coverage Service (WCS)<br>
 Web Coverage Service (WCS) merupakan raster standar pelayanan OGC yang mengambil informasi geospasial yang berkaitan dengan fenomena multidimensi pada titik-titik dalam ruang yang berbeda-beda di wilayah geografis. Setiap WCS menyediakan akses ke informasi melalui tiga operasi: GetCapabilities, DescribeCoverage, dan GetCoverage.
 
 
